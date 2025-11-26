@@ -9,3 +9,9 @@ const b=()=>{
     console.log("feature-4-func-b");
    
 }
+
+
+const e =()=>{
+    console.log("e");
+    
+}
