@@ -9,3 +9,7 @@ const b=()=>{
     console.log("feature-4-func-b");
    
 }
+
+const c=()=>{
+console.log("function c");
+}
