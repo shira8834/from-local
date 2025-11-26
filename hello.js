@@ -7,9 +7,12 @@ const a=()=>{
 const b=()=>{
     alert("feature-4-func-b");
     console.log("feature-4-func-b");
-   
 }
 
 const c=()=>{
 console.log("function c");
+}
+
+const d= ()=>{
+    console.log("func d feature-2");
 }
